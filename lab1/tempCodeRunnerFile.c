@@ -1,1 +1,0 @@
-Write a C/C++ program to identify whether input line is comment or not.
